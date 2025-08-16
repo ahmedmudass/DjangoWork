@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c2ef275-2ffa-40fe-8e59-176690c89468" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mera_project/templates/master.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mera_project/mera_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mera_project/mera_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mera_project/myapp/templates/myapp/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/mera_project/myapp/templates/myapp/About.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mera_project/myapp/templates/myapp/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mera_project/myapp/templates/myapp/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mera_project/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mera_project/myapp/templates/myapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mera_project/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/mera_project/templates/master.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
